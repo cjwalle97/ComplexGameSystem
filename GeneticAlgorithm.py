@@ -17,4 +17,3 @@ def CheckSolution(solution, goal):
     if solution == goal:
         return true
 
-
