@@ -17,3 +17,6 @@ def CheckSolution(solution, goal):
     if solution == goal:
         return true
 
+def Crossover():
+
+def Mutation():
