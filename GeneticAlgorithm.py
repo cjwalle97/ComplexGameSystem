@@ -2,10 +2,10 @@ class Goal (object):
     '''Desired end result of Gentic Algorithm'''
     def __init__(self, goal):
         self.goal = goal
-        letterlist = []
+        '''letterlist = []
         for i in goal:
             self.letters += 1
-            letterlist.append[i]
+            letterlist.append[i]'''
 
 class Chromosome (object):
     '''list of characters that must match up to Goal's LetterList'''
